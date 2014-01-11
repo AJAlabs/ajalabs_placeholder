@@ -84,3 +84,8 @@ h1 {
   font-size: 26px;
   padding: 12px;
 }
+
+.btn-info, .btn-info:hover, .btn-info:focus {
+ background-color: #555;
+ border: 0;
+}
