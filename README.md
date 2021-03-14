@@ -1,6 +1,6 @@
-## AJAlabs.com - "Research, Practice, Repeat!"
+## AJAlabs.com - "Research, Learn, Practice, Repeat!"
 
-This is the source code for [AJAlabs.com](http://ajalabs.com). It's currently just a placeholder site until I wrap up some projects that I'm working on and get some time to build out this site.
+This is the source code for [AJAlabs.com](http://ajalabs.com). It's just a placeholder website template that I maintain.
 
 Feel free to modify and use it for your own project.
 
